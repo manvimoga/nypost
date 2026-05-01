@@ -473,3 +473,19 @@ body {
     justify-content: center;
   }
 }
+
+.footer-social a {
+  font-size: 22px;
+  margin-left: 12px;
+  color: #333;
+  transition: 0.2s;
+}
+
+.font-biggest {
+  font-family: 'Anton', sans-serif;
+  font-size: 60px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  color: #c70800;
+  text-transform: uppercase;
+}
