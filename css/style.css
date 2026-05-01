@@ -481,11 +481,11 @@ body {
   transition: 0.2s;
 }
 
-.font-biggest {
-  font-family: 'Anton', sans-serif;
+.font-impact {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
   font-size: 60px;
-  font-weight: 400;
-  letter-spacing: 1px;
+  font-weight: 900;
+  letter-spacing: 3px;
   color: #c70800;
   text-transform: uppercase;
 }
